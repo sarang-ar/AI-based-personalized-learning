@@ -1,0 +1,23 @@
+# Core Web Framework
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.3
+python-multipart==0.0.9
+
+# Database & Auth
+motor==3.3.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+
+# AI & Computer Vision
+google-generativeai==0.4.1
+mediapipe==0.10.32
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+easyocr==1.7.1
+
+# Utility
+python-dotenv==1.0.1
+httpx==0.27.0
+jinja2==3.1.3
